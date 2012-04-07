@@ -4,7 +4,7 @@
   "scripts": {
     "start": "lib/server.js"
   },
-  "version": "0.0.0-22",
+  "version": "0.0.0-23",
   "engines": {
     "node": "0.6.x"
   },
@@ -12,7 +12,8 @@
     "node-static": "0.5.x",
     "date-utils": "1.2.x",
     "mongolian": "0.1.x",
-    "cron": "0.1.x"
+    "cron": "0.1.x",
+    "express": "*"
   },
   "directories": {
     "lib": "lib"
