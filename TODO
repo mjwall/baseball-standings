@@ -9,12 +9,13 @@ DONE
 - dynamic port, so I don't have to change when doing development
 - move out username and password to something that is not checked in
 - commit to github
+- get rid of static and use express
 
 
 TODO
 - parse xml instead of passing in date, then schedule job to run more freq
   not sure 7am is correct
-- get rid of static and use express
+- provide list view to show data from mongo
 - use mocha and write some tests
 - define json format
 - create json object from standings
