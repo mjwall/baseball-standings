@@ -1,2 +1,4 @@
 # this file is needed to deploy my mongo.conf
 # otherwise, .gitignore is used and that file doesn't go
+# add stuff here from .gitignore that you don't want to deploy
+node_modules
