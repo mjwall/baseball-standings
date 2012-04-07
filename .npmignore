@@ -1,0 +1,2 @@
+# this file is needed to deploy my mongo.conf
+# otherwise, .gitignore is used and that file doesn't go
