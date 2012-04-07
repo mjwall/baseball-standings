@@ -1,0 +1,5 @@
+exports.mongo = {}
+exports.mongo.username = "username"
+exports.mongo.password = "password"
+exports.mongo.url = "mongo.host.url:port"
+exports.mongo.db = "databasename"

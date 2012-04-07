@@ -1,0 +1,26 @@
+Example node js project
+
+Will download standings xml every day, parse it and then create a graph
+
+
+DONE
+- simple page
+- deploy to jitsu
+- static files
+- function to download standings (saved files don't persist redeployment)
+- create jitsu mongodb
+- shove json into mongo
+- cron job to grab standings every day
+- dynamic port, so I don't have to change when doing development
+
+TODO
+- move out username and password to something that is not checked in
+- parse xml instead of passing in date, then schedule job to run more freq
+  not sure 7am is correct
+- get rid of static and use express
+- commit to github
+- define json format
+- create json object from standings
+- maybe store json in mongo as well, calculate after each insert?
+- add highline and display graphs
+- put on travis-ci?
