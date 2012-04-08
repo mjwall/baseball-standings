@@ -14,6 +14,7 @@ DONE
 - redo standings endpoint to be more RESTful and provide xml or json
 
 TODO
+- still have a bug with download of stats, loading yesterday
 - parse xml instead of passing in date, then schedule job to run more freq
   not sure 7am is correct
 - use mocha and write some tests
