@@ -11,7 +11,7 @@ DONE
 - commit to github
 - get rid of static and use express
 - provide view to show data from mongo /xml/YYYYMMDD
-
+- redo standings endpoint to be more RESTful and provide xml or json
 
 TODO
 - parse xml instead of passing in date, then schedule job to run more freq

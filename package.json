@@ -4,7 +4,7 @@
   "scripts": {
     "start": "lib/server.js"
   },
-  "version": "0.0.0-30",
+  "version": "0.0.0-31",
   "engines": {
     "node": "0.6.x"
   },
@@ -13,7 +13,8 @@
     "mongolian": "0.1.x",
     "cron": "0.1.x",
     "express": "2.5.x",
-    "jade": "0.22.x"
+    "jade": "0.22.x",
+    "xml2js": "0.1.x"
   },
   "directories": {
     "lib": "lib"
