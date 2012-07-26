@@ -12,5 +12,5 @@ So like most things, data is key here.  I need stats for games behind for each t
 If you want try this app yourself, you will need to copy the mongo.conf.sample to mongo.conf and fill it in with your MongoDB configuration info.
 
 ## Deployment
-This app is current deployed to http://baseball-standings.nodejitsu.com/.  Nothing exciting yet, just gathering data in the background for a while until I get time to make it informative.
+This app is current deployed to http://baseball-standings.jit.su.  Nothing exciting yet, just gathering data in the background for a while until I get time to make it informative.
 
